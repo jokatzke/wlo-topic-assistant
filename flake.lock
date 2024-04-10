@@ -76,33 +76,17 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1711124224,
-        "narHash": "sha256-l0zlN/3CiodvWDtfBOVxeTwYSRz93muVbXWSpaMjXxM=",
+        "lastModified": 1712608508,
+        "narHash": "sha256-vMZ5603yU0wxgyQeHJryOI+O61yrX2AHwY6LOFyV1gM=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "56528ee42526794d413d6f244648aaee4a7b56c0",
+        "rev": "4cba8b53da471aea2ab2b0c1f30a81e7c451f4b6",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
-        "ref": "nixos-23.11",
+        "ref": "nixos-unstable",
         "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    "nltk-data": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1675306065,
-        "narHash": "sha256-RFywUkesoUL8tbiKLs6Pa+NpoEOq9eu1dP83n5XkNpY=",
-        "owner": "nltk",
-        "repo": "nltk_data",
-        "rev": "5db857e6f7df11eabb5e5665836db9ec8df07e28",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nltk",
-        "repo": "nltk_data",
         "type": "github"
       }
     },
@@ -151,7 +135,6 @@
         "flake-utils": "flake-utils",
         "nix-filter": "nix-filter",
         "nixpkgs": "nixpkgs",
-        "nltk-data": "nltk-data",
         "oeh-metadata-vocabs": "oeh-metadata-vocabs",
         "openapi-checks": "openapi-checks"
       }
